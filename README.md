@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects for python java API and new concepts
 - 📫 How to reach me ankanaroshan24@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am funny but cant answer these questions lol
+- ⚡ Fun fact: I eat an icecream on the run :P
 
 <!---
 AnkRosha/AnkRosha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
